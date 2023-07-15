@@ -13,6 +13,8 @@ import lombok.Data;
 @Entity
 @Table(name="APP_PLANS")
 public class AppPlanEntity {
+
+	int a=20;
 	
 	@Id
 	@Column(name="PLAN_ID")
