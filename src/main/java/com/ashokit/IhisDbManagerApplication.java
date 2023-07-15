@@ -8,6 +8,8 @@ public class IhisDbManagerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IhisDbManagerApplication.class, args);
+		
+		System.out.println("my name is ram");
 	}
 
 }
