@@ -10,6 +10,7 @@ public class IhisDbManagerApplication {
 		SpringApplication.run(IhisDbManagerApplication.class, args);
 		
 		System.out.println("my name is ram");
+		System.out.println("my name is gajanan");
 	}
 
 }
