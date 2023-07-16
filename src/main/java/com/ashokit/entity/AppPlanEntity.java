@@ -20,6 +20,9 @@ public class AppPlanEntity {
 	@Column(name="PLAN_ID")
 	private int planId;
 	
+    private long mobno;
+  
+	
 	@Column(name="PLAN_NAME")
     private String planName;
 	
