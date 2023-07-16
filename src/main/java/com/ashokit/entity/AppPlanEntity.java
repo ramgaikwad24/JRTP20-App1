@@ -21,6 +21,8 @@ public class AppPlanEntity {
 	private int planId;
 	
     private long mobno;
+    
+    private String name="ram";
   
 	
 	@Column(name="PLAN_NAME")
